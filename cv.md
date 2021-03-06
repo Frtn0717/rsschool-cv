@@ -14,12 +14,12 @@
 
 ### Experience
   *EPAM training course at Francisk Skorina Gomel state university:*
-    * *experience of using Git*
-    * *learned the basics of HTML/CSS/Javascript*
+  * *experience of using Git*
+  * *learned the basics of HTML/CSS/Javascript*
 
 ### Education
-  *1 Gomel state road-building technical school /2003-2007/*
-  *1 Francisk Skorina Gomel state university /2020/*
+  1. *Gomel state road-building technical school /2003-2007/*
+  1. *Francisk Skorina Gomel state university /2020/*
 
 ### English
   *A2 level according to the test results of the EPAM training center.*
