@@ -10,14 +10,16 @@
   *I'm 33 years old. I work as a leading technologist and combine it with studying at Francisk Skorina Gomel state university at faculty of physics and information technologies.*
 
 ### Skills
-  *I'm learning HTML, CSS, Javascript, React and English on my own. I have experience of using Git*
+  *I'm learning HTML, CSS, Javascript, React and English on my own.*
 
 ### Experience
-  *EPAM training course at Francisk Skorina Gomel state university*
+  *EPAM training course at Francisk Skorina Gomel state university:*
+    * *experience of using Git*
+    * *learned the basics of HTML/CSS/Javascript*
 
 ### Education
   *1 Gomel state road-building technical school /2003-2007/*
   *1 Francisk Skorina Gomel state university /2020/*
 
 ### English
-  *A2 level by EPAM training center test.*
+  *A2 level according to the test results of the EPAM training center.*
