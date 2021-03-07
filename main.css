@@ -34,3 +34,7 @@ a {
 p, span {
   font-style: italic;
 }
+
+h3 {
+  text-decoration: underline;
+}
