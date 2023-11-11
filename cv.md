@@ -1,4 +1,4 @@
-![avatar](/man.png "Stanislau Turasau")
+![avatar](man.png "Stanislau Turasau")
 
 # Turasau Stanislau
 
