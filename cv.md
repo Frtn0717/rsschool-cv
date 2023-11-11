@@ -1,3 +1,5 @@
+![mountains](/man.png "Stanislau Turasau")
+
 # Turasau Stanislau
 
 ## Junior Frontend Developer
