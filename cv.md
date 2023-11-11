@@ -11,9 +11,13 @@
 - E-mail: stanislau.t7@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/stanislau-turasau-b527381b0/ "Stanislau on LinkedIn")
 
+---
+
 ### About Myself
 
 Hello! I am a frontend developer with practical experience in web and mobile development. I am constantly developing my technical skills. I also don’t forget about improving my English language skills. And currently I am looking for my dream team.
+
+---
 
 ### Skills
 
@@ -25,6 +29,8 @@ Hello! I am a frontend developer with practical experience in web and mobile dev
 - MobX
 - Git
 - Agile methodology
+
+---
 
 ### Code Example
 
@@ -52,9 +58,13 @@ function solution(list){
 }
 ```
 
+---
+
 ### Courses
 
 I have successfully completed EPAM's external JS training, as well as EPAM JS Lab.
+
+---
 
 ### Languages
 
