@@ -15,7 +15,7 @@
 
 ### About Myself
 
-Hello! I am a frontend developer with practical experience in web and mobile development. I am constantly developing my technical skills. I also don’t forget about improving my English language skills. And currently I am looking for my dream team.
+Hello! I am a frontend developer with practical experience in web and mobile development. I am constantly improving my technical skills. I also don’t forget about improving my English language skills. And currently I am looking for my dream team.
 
 ---
 
